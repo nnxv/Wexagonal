@@ -11,7 +11,7 @@ With backend Hex(agonal)
 > 标记~为暂时未支持的内容
 
 |↓数据库/安装平台→|服务器Node|CloudFlareWorker|Vercel|Heroku|SCF|~Deno|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|------|
 |CloudFlareKV|×|√|×|×|×|×|
 |MongoDB|√|×|√|√|√|×|
 |~FireBase|√|√|√|√|√|√|
